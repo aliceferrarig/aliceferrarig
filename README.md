@@ -1,6 +1,6 @@
 ## Oii! Seja bem-vindo (a) ao meu perfil 🎀
 
-- 🤍 Atualmente, eu estou estudando no SENAI Muriaé e aprendendo Visual Studio Code e JavaScript<br>- 🤍 Contate-me no email: aliceferrarig2020@gmail.com<br>- 🤍 Pronomes: ela/dela
+- 🤍 Atualmente, eu estou estudando no SENAI Muriaé e aprendendo HTML e CSS<br>- 🤍 Contate-me no email: aliceferrarig2020@gmail.com<br>- 🤍 Pronomes: ela/dela
 
 
 ## 🌐 Socials:
